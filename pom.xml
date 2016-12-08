@@ -26,6 +26,7 @@
 		</plugins>
 	</build>
 	
+	
 	<distributionManagement>
     <repository>
       <id>nexus</id>
@@ -39,5 +40,7 @@
     </snapshotRepository>
   </distributionManagement>
   
+
+
   
 </project>
